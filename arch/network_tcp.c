@@ -1098,7 +1098,6 @@ UA_ClientConnectionTCP(UA_ConnectionConfig config, const UA_String endpointUrl,
         UA_LOG_WARNING(logger, UA_LOGCATEGORY_NETWORK,
                        "Couldn't set SO_NOSIGPIPE");
 #endif
-    printf("add by jk\n");
 
     return connection;
 }
