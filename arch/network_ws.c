@@ -342,4 +342,6 @@ UA_ServerNetworkLayerWS(UA_ConnectionConfig config, UA_UInt16 port, UA_Logger *l
     layer->port = port;
     layer->config = config;
     return nl;
+
+    printf("tangjie1 changed\n");
 }
