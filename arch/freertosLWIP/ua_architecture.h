@@ -7,7 +7,7 @@
  */
 
 #ifdef UA_ARCHITECTURE_FREERTOSLWIP
-
+//#aaaaaadfjakdsjfsdjggggggggggggggggggggggggggggggggggggggggggggggggg
 #ifndef PLUGINS_ARCH_FREERTOSLWIP_UA_ARCHITECTURE_H_
 #define PLUGINS_ARCH_FREERTOSLWIP_UA_ARCHITECTURE_H_
 
